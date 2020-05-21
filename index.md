@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的优惠券集结营 
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyCouponRallyCamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在日常生活中，我们常常有一些剩余的优惠券没有使用完，或在截止日期前用不上的优惠券，我们可以将手里这些多余的优惠券分享出来，给其他有需要的人。用户可以通过平台将自己的优惠券发布分享到平台，经平台核实优惠券的真实性后，即可展示在平台上。其他用户就可以在平台上免费领取别人分享出来的优惠券。这种方式是一种共享的新方式，平台不收取任何费用，用户也不需要任何费用即可领取别人免费分享出来的优惠券，是一种共赢的方式。
 
-### Markdown
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们将第一时间为您解答。
 
-```markdown
-Syntax highlighted code block
+### 邮箱地址: zhanghesongyuan7@126.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyCouponRallyCamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
